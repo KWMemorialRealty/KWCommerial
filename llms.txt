@@ -16,7 +16,6 @@ Key facts:
 ## Client pages
 
 - [Commercial Real Estate Brokerage in Houston](https://www.kwcommercialtexas.com/): KW Commercial Texas is a Houston commercial real estate brokerage for sales, leasing and investment in retail, office, industrial, multifamily and land.
-- [Houston Commercial Real Estate Agents](https://www.kwcommercialtexas.com/agents.html): Meet the commercial real estate agents and directors of KW Commercial Texas in Houston. Search by name, property type or language.
 - [Commercial Property Types in Houston](https://www.kwcommercialtexas.com/property-types/index.html): Retail, office, industrial, multifamily, land, medical and hospitality real estate in Houston: services and specialist agents at KW Commercial Texas.
 - [Houston Retail Real Estate: Sales and Leasing](https://www.kwcommercialtexas.com/property-types/houston-retail-real-estate.html): Retail property sales, leasing and investment in Houston: shopping centers, storefronts, pad sites and restaurant space.
 - [Houston Office Space for Lease and Sale](https://www.kwcommercialtexas.com/property-types/houston-office-space.html): Office space for lease and sale in Houston, plus office investment property, with KW Commercial Texas office specialists.
@@ -65,38 +64,7 @@ Selling a hotel: 1. Pricing and valuation guidance: A broker opinion of value ba
 
 ## Agents
 
-- [Melanne Carpenter](https://www.kwcommercialtexas.com/agents/melanne-carpenter.html): Managing Director; focus: retail; 832.720.5626
-- [Sepi Akhavi](https://www.kwcommercialtexas.com/agents/sepi-akhavi.html): Director; focus: office, retail, industrial, hospitality; languages: English, Persian (Farsi); 832.545.7393
-- [Tim Larson](https://www.kwcommercialtexas.com/agents/tim-larson.html): Director; 281.508.0800
-- [Ash Noorani](https://www.kwcommercialtexas.com/agents/ash-noorani.html): Director; 832.455.6486
-- [Ada Yan Wang](https://www.kwcommercialtexas.com/agents/ada-yan-wang.html): Director; focus: retail, office, industrial, multifamily, hospitality, land and development; languages: English, Mandarin, Cantonese; 713.859.2598
-- [Michael Stavinoha](https://www.kwcommercialtexas.com/agents/michael-stavinoha.html): Director; 979.320.4303
-- [AJ Jandali](https://www.kwcommercialtexas.com/agents/aj-jandali.html): focus: industrial; languages: English, Arabic; 832.936.5880
-- [Alexandra Pocora](https://www.kwcommercialtexas.com/agents/alexandra-pocora.html): languages: English, Spanish, Romanian, Italian, Greek; 346.932.5165
-- [Angelica Riveros](https://www.kwcommercialtexas.com/agents/angelica-riveros.html): focus: industrial, retail, office, land and development; languages: English, Spanish; 832.857.8539
-- [Anthony Melos](https://www.kwcommercialtexas.com/agents/anthony-melos.html): commercial real estate; 713.449.0913
-- [Busra Burlukkara](https://www.kwcommercialtexas.com/agents/busra-burlukkara.html): focus: industrial, land and development; 650.267.9130
-- [Caryn Craig](https://www.kwcommercialtexas.com/agents/caryn-craig.html): focus: land and development; 713.398.2839
-- [Chase Kocurek](https://www.kwcommercialtexas.com/agents/chase-kocurek.html): commercial real estate; 409.789.7871
-- [Daisy Guzman](https://www.kwcommercialtexas.com/agents/daisy-guzman.html): focus: multifamily; languages: English, Spanish; 832.560.6227
-- [Dawn McEachnie](https://www.kwcommercialtexas.com/agents/dawn-mceachnie.html): commercial real estate; 832.628.6865
-- [Dipankar "Roy" Sinharoy](https://www.kwcommercialtexas.com/agents/dipankar-sinharoy.html): commercial real estate; 832.273.0314
-- [Elizabeth Kyser](https://www.kwcommercialtexas.com/agents/elizabeth-kyser.html): commercial real estate; 281.229.8416
-- [Erica Whittington](https://www.kwcommercialtexas.com/agents/erica-whittington.html): focus: retail, industrial; 832.898.0610
-- [Eugene Yim](https://www.kwcommercialtexas.com/agents/eugene-yim.html): languages: English, Korean; 832.459.7873
-- [Gina Nasife](https://www.kwcommercialtexas.com/agents/gina-nasife.html): commercial real estate; 610.405.4490
-- [Jose Zavala](https://www.kwcommercialtexas.com/agents/jose-zavala.html): focus: land and development; languages: English, Spanish; 713.303.2413
-- [Manuel Chavez](https://www.kwcommercialtexas.com/agents/manuel-chavez.html): focus: multifamily, land and development, retail, industrial; languages: English, Spanish; 281.662.4546
-- [Mei Zhang](https://www.kwcommercialtexas.com/agents/mei-zhang.html): commercial real estate; 281.966.8683
-- [Patrick Stuckwish](https://www.kwcommercialtexas.com/agents/patrick-stuckwish.html): focus: retail, office, multifamily; 832.360.3156
-- [Richard Copeland](https://www.kwcommercialtexas.com/agents/richard-copeland.html): focus: retail, office, medical, industrial, multifamily, hospitality; 832.928.0306
-- [Robert Martinez](https://www.kwcommercialtexas.com/agents/robert-martinez.html): languages: English, Spanish; 832.419.0994
-- [Shirley Qing](https://www.kwcommercialtexas.com/agents/shirley-qing.html): languages: English, Mandarin; 832.289.4008
-- [Steve Yun](https://www.kwcommercialtexas.com/agents/steve-yun.html): commercial real estate; 617.650.8636
-- [Steven Blair](https://www.kwcommercialtexas.com/agents/steven-blair.html): focus: multifamily, medical; 713.494.1804
-- [Tatyana Vo](https://www.kwcommercialtexas.com/agents/tatyana-vo.html): languages: English, Vietnamese; 281.335.0335
-- [Travis Nichols](https://www.kwcommercialtexas.com/agents/travis-nichols.html): focus: land and development, industrial, office; 713.899.7993
-- [Zoe Meshberger](https://www.kwcommercialtexas.com/agents/zoe-meshberger.html): commercial real estate; 346.802.5676
+- [KW Commercial Texas agent roster](https://kwmemorial.com/commercial/): names, direct phone numbers and email for every commercial agent (maintained on kwmemorial.com)
 
 ## Careers
 
