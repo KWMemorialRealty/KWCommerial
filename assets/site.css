@@ -349,6 +349,20 @@
   @media (max-width: 600px) { .brand { gap: 8px; } .brand-tag { padding-left: 8px; margin-left: -2px; letter-spacing: 0.16em; } }
   @media (max-width: 480px) { .brand-logo { height: 26px !important; } .brand { gap: 6px; margin-right: 10px; } .brand-tag { padding-left: 6px; margin-left: -1px; font-size: 8.5px; letter-spacing: 0.12em; } }
 
+.mkt-wrap{overflow-x:auto;margin:8px 0 10px}
+table.mkt{width:100%;border-collapse:collapse;font-size:16px;min-width:640px}
+table.mkt th,table.mkt td{padding:14px 16px;border-bottom:1px solid #e3e3e3;text-align:left}
+table.mkt thead th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:#666}
+table.mkt tbody th a{font-weight:600}
+.mkt-notes{margin-top:30px}
+.mkt-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px 40px;margin-top:10px}
+.mkt-stats .stat strong{display:block;font-size:40px;line-height:1.1;color:var(--red,#b40101)}
+.mkt-stats .stat span{display:block;color:#555;margin-top:6px}
+.mkt-stats .stat-src{grid-column:1/-1;margin:0}
+.fred-charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:28px;margin-top:34px}
+.fred-charts img{width:100%;height:auto;background:#fff;border:1px solid #e3e3e3}
+.fred-charts figcaption{font-size:13px;color:#666;margin-top:8px}
+
   .type-hero .hero-body { padding: 150px 0 72px; position: relative; z-index: 1; }
   .type-hero .hero-art { width: 100%; opacity: .38; }
   .type-hero h1 { text-transform: none; font-size: clamp(2rem, 4.4vw, 3.4rem); max-width: 22ch; }
