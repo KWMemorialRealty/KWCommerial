@@ -359,6 +359,7 @@ table.mkt tbody th a{font-weight:600}
 .mkt-stats .stat strong{display:block;font-size:40px;line-height:1.1;color:var(--red,#b40101)}
 .mkt-stats .stat span{display:block;color:#555;margin-top:6px}
 .mkt-stats .stat-src{grid-column:1/-1;margin:0}
+.mkt-stats.sm .stat strong{font-size:30px}
 .fred-charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:28px;margin-top:34px}
 .fred-charts img{width:100%;height:auto;background:#fff;border:1px solid #e3e3e3}
 .fred-charts figcaption{font-size:13px;color:#666;margin-top:8px}
